@@ -2,5 +2,10 @@
     border-radius: 50%;
 }
 #supercellLogo{
-    background-color: black;
+    background-color: #2f2f2f;
+    width: 121px;
+    height: 121px;
+    padding: 40px;
+    display: flex;
+    align-items: center;
 }
